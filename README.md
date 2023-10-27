@@ -1,15 +1,15 @@
 <h1>X-Card-pj</h1>
 
-<p> </p>
+<p>In this project, I created a twitter(X)-card using if else structures and a counter. </p>
 
 
 
 <h2>Techs<h2>
--HTML
--HTML5
--CSS
--CSS3
--JavaScript
+<p>-HTML </p>
+<p>-HTML5</p>
+<p>-CSS </p>
+<p>-CSS3 </p>
+<p>-JavaScript </p>
 
 <h1>Libraries</h1>
 
